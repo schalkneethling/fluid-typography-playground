@@ -1,0 +1,19 @@
+{
+  "name": "fluid-typography-playground",
+  "version": "1.0.0",
+  "description": "A playground to accompany my blog post on fluid typography and the math behind CSS clamp()",
+  "keywords": [
+    "clamp",
+    "css",
+    "fluid typography",
+    "html",
+    "playground"
+  ],
+  "license": "MIT",
+  "author": "Schalk Neethling <schalkneethling@duck.com>",
+  "main": "index.js",
+  "devDependencies": {
+    "prettier": "^3.8.3"
+  },
+  "packageManager": "pnpm@11.1.1"
+}
