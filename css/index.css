@@ -46,6 +46,11 @@ body {
   background-attachment: fixed;
 }
 
+a:link,
+a:visited {
+  color: var(--accent);
+}
+
 .grain {
   position: fixed;
   inset: 0;
